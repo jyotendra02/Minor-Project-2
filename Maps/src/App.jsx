@@ -8,8 +8,11 @@ function App() {
 
   return (
     <>
-      <IndiaMap></IndiaMap>
+      <IndiaMap> 
+        
+      </IndiaMap>
     </>
+    
   )
 }
 
