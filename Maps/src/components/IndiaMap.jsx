@@ -20,6 +20,9 @@ function IndiaMap() {
       <p>{stateName}</p>
       <p>{stateCode}</p>
       <SVGMap map={India} onLocationClick={onLocationClick} />
+
+
+      <h1>Minor</h1>
     </>
   );
 }
