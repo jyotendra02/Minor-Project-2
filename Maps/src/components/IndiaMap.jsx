@@ -24,4 +24,6 @@ function IndiaMap() {
   );
 }
 
+// Demo
+
 export default IndiaMap;
