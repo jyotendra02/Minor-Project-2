@@ -1,0 +1,57 @@
+{
+    "Maharashtra": {
+      "value": 50,
+      "content": {
+        "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    },
+    "Delhi": {
+      "value": 60,
+      "content": {
+        "area": 1234,
+        "pd": 2,
+        "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    },
+    "West Bengal": {
+      "value": 60,
+      "content": {
+        "area": 1234,
+        "pd": 2,
+        "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    },
+    "Uttar Pradesh": {
+      "value": 60,
+      "content": {
+        "area": 1234,
+        "pd": 2,
+        "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    },
+    "Madhya Pradesh": {
+      "value": 60,
+      "content": {
+        "area": 1234,
+        "pd": 2,
+        "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    },
+    "Haryana": {
+      "value": 60,
+      "content": {
+        "area": 1234,
+        "pd": 2,
+        "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    },
+    "Bihar": {
+      "value": 60,
+      "content": {
+        "area": 1234,
+        "pd": 2,
+        "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    }
+  }
+  
