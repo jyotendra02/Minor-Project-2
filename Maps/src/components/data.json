@@ -1,57 +1,103 @@
 {
-    "Maharashtra": {
-      "value": 50,
-      "content": {
-        "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-      }
-    },
-    "Delhi": {
-      "value": 60,
-      "content": {
-        "area": 1234,
-        "pd": 2,
-        "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-      }
-    },
-    "West Bengal": {
-      "value": 60,
-      "content": {
-        "area": 1234,
-        "pd": 2,
-        "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-      }
-    },
-    "Uttar Pradesh": {
-      "value": 60,
-      "content": {
-        "area": 1234,
-        "pd": 2,
-        "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-      }
-    },
-    "Madhya Pradesh": {
-      "value": 60,
-      "content": {
-        "area": 1234,
-        "pd": 2,
-        "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-      }
-    },
-    "Haryana": {
-      "value": 60,
-      "content": {
-        "area": 1234,
-        "pd": 2,
-        "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-      }
-    },
-    "Bihar": {
-      "value": 60,
-      "content": {
-        "area": 1234,
-        "pd": 2,
-        "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-      }
+  "Maharashtra": {
+    "name" : "Maharashtra",
+    "p_density": 90,
+    "area": 50,
+    "image": "../../public/maps/",
+    "sex_r": " ",
+    "literacy_r": " ",
+    "GDP": " ",
+    "content": {
+      "CM": "XYZ",
+      "District": 36,
+      "Capital": "Mumbai",
+      "txt": "Popular as a mini India"
+    }
+  },
+  "Delhi": {
+    "p_density": 90,
+    "area": 50,
+    "image": "Madhya_Pradesh_district_map.svg.png",
+    "sex_r": " ",
+    "literacy_r": " ",
+    "GDP": " ",
+    "content": {
+      "CM": "XYZ",
+      "District": 45,
+      "Capital": "Union Territories",
+      "txt": "Popular as a mini India"
+    }
+  },
+  "West Bengal": {
+    "p_density": 90,
+    "area": 50,
+    "image": "Madhya_Pradesh_district_map.svg.png",
+    "sex_r": " ",
+    "literacy_r": " ",
+    "GDP": " ",
+    "content": {
+      "CM": "XYZ",
+      "District": 45,
+      "Capital": "ABC",
+      "txt": "Popular as a mini India"
+    }
+  },
+  "Uttar Pradesh": {
+    "name" : "Maharashtra",
+    "p_density": 90,
+    "area": 50,
+    "image": "Madhya_Pradesh_district_map.svg.png",
+    "sex_r": " ",
+    "literacy_r": " ",
+    "GDP": " ",
+    "content": {
+      "CM": "XYZ",
+      "District": 45,
+      "Capital": "ABC",
+      "txt": "Popular as a mini India"
+    }
+  },
+  "Madhya Pradesh": {
+    "name" : "Madhya Pradesh",
+    "p_density": 90,
+    "area": 50,
+    "image": "../../public/maps/MP.png",
+    "sex_r": " ",
+    "literacy_r": " ",
+    "GDP": " ",
+    "content": {
+      "CM": "XYZ",
+      "District": 45,
+      "Capital": "ABC",
+      "txt": "Popular as a mini India"
+    }
+  },
+  "Haryana": {
+    "p_density": 90,
+    "area": 50,
+    "image": "Madhya_Pradesh_district_map.svg.png",
+    "sex_r": " ",
+    "literacy_r": " ",
+    "GDP": " ",
+    "content": {
+      "CM": "XYZ",
+      "District": 45,
+      "Capital": "ABC",
+      "txt": "Popular as a mini India"
+    }
+  },
+  "Bihar": {
+    "p_density": 90,
+    "area": 50,
+    "image": "Madhya_Pradesh_district_map.svg.png",
+    "sex_r": " ",
+    "literacy_r": " ",
+    "GDP": " ",
+    "content": {
+      "CM": "XYZ",
+      "District": 45,
+      "Capital": "ABC",
+      "txt": "Popular as a mini India"
     }
   }
-  
+}
