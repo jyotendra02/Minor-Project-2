@@ -2,11 +2,7 @@ import React, { useState } from "react";
 import India from "@svg-maps/india";
 import { SVGMap } from "react-svg-map";
 import "react-svg-map/lib/index.css";
-<<<<<<< HEAD
-// import ReactDatamaps from "react-india-states-map";
-=======
 import ReactDatamaps from "react-india-states-map";
->>>>>>> 01544c9bee66044bb8448a98f956ff53c0a5581e
 import data from "./data.json";
 
 function App() {
