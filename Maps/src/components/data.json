@@ -3,7 +3,7 @@
     "name" : "Maharashtra",
     "p_density": 90,
     "area": 50,
-    "image": "Madhya_Pradesh_district_map.svg.png",
+    "image": "../../public/maps/",
     "sex_r": " ",
     "literacy_r": " ",
     "GDP": " ",
