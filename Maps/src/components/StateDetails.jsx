@@ -20,7 +20,13 @@ function StateDetails({ stateData }) {
       <div className="w-100 bg-blue-300 px-4 py-4 rounded-lg h-auto mx-3 ">
         <p>Population Density: {stateData.p_density}</p>
         <p>Area: {stateData.area}</p>
-        {/* Add more details as needed */}
+        <p>Sex Ratio: {stateData.sex_r}</p>
+        <p>Literacy Rate: {stateData.literacy_r}</p>
+        <p>GDP: {stateData.GDP}</p>
+        <p>Chief Minister: {stateData.content.CM}</p>
+        <p>Districts: {stateData.content.District}</p>
+        <p>Capital: {stateData.content.Capital}</p>
+        <p>Description: {stateData.content.txt}</p>
       </div>
     </>
   );

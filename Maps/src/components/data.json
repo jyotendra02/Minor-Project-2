@@ -1,103 +1,482 @@
 {
   "Maharashtra": {
-    "name" : "Maharashtra",
-    "p_density": 90,
-    "area": 50,
-    "image": "../../public/maps/",
-    "sex_r": " ",
-    "literacy_r": " ",
-    "GDP": " ",
+    "name": "Maharashtra",
+    "p_density": 365,
+    "area": 307713,
+    "image": "../../public/maps/maharashtra.png",
+    "sex_r": "929",
+    "literacy_r": "82.34%",
+    "GDP": "$387.5 billion",
     "content": {
-      "CM": "XYZ",
+      "CM": "Uddhav Thackeray",
       "District": 36,
       "Capital": "Mumbai",
-      "txt": "Popular as a mini India"
+      "txt": "Maharashtra is the wealthiest state in India, contributing to 15% of the country's industrial output and 13.3% of its GDP."
     }
   },
   "Delhi": {
-    "p_density": 90,
-    "area": 50,
-    "image": "Madhya_Pradesh_district_map.svg.png",
-    "sex_r": " ",
-    "literacy_r": " ",
-    "GDP": " ",
+    "name": "Delhi",
+    "p_density": 11297,
+    "area": 1484,
+    "image": "../../public/maps/delhi.png",
+    "sex_r": "868",
+    "literacy_r": "88.73%",
+    "GDP": "$109 billion",
     "content": {
-      "CM": "XYZ",
-      "District": 45,
-      "Capital": "Union Territories",
-      "txt": "Popular as a mini India"
+      "CM": "Arvind Kejriwal",
+      "District": 11,
+      "Capital": "New Delhi",
+      "txt": "Delhi is the capital territory of India and is known for its rich history, vibrant culture, and political significance."
     }
   },
   "West Bengal": {
-    "p_density": 90,
-    "area": 50,
-    "image": "Madhya_Pradesh_district_map.svg.png",
-    "sex_r": " ",
-    "literacy_r": " ",
-    "GDP": " ",
+    "name": "West Bengal",
+    "p_density": 1028,
+    "area": 88752,
+    "image": "../../public/maps/west_bengal.png",
+    "sex_r": "950",
+    "literacy_r": "76.26%",
+    "GDP": "$180 billion",
     "content": {
-      "CM": "XYZ",
-      "District": 45,
-      "Capital": "ABC",
-      "txt": "Popular as a mini India"
+      "CM": "Mamata Banerjee",
+      "District": 23,
+      "Capital": "Kolkata",
+      "txt": "West Bengal is known for its cultural heritage, vibrant festivals, and significant contributions to literature, art, and cinema."
     }
   },
   "Uttar Pradesh": {
-    "name" : "Maharashtra",
-    "p_density": 90,
-    "area": 50,
-    "image": "Madhya_Pradesh_district_map.svg.png",
-    "sex_r": " ",
-    "literacy_r": " ",
-    "GDP": " ",
+    "name": "Uttar Pradesh",
+    "p_density": 828,
+    "area": 240928,
+    "image": "../../public/maps/uttar_pradesh.png",
+    "sex_r": "912",
+    "literacy_r": "67.68%",
+    "GDP": "$274 billion",
     "content": {
-      "CM": "XYZ",
-      "District": 45,
-      "Capital": "ABC",
-      "txt": "Popular as a mini India"
+      "CM": "Yogi Adityanath",
+      "District": 75,
+      "Capital": "Lucknow",
+      "txt": "Uttar Pradesh is the most populous state in India and is known for its rich history, architectural marvels, and diverse culture."
     }
   },
   "Madhya Pradesh": {
-    "name" : "Madhya Pradesh",
-    "p_density": 90,
-    "area": 50,
-    "image": "../../public/maps/MP.png",
-    "sex_r": " ",
-    "literacy_r": " ",
-    "GDP": " ",
+    "name": "Madhya Pradesh",
+    "p_density": 236,
+    "area": 308245,
+    "image": "../../public/maps/madhya_pradesh.png",
+    "sex_r": "931",
+    "literacy_r": "69.32%",
+    "GDP": "$250 billion",
     "content": {
-      "CM": "XYZ",
-      "District": 45,
-      "Capital": "ABC",
-      "txt": "Popular as a mini India"
+      "CM": "Shivraj Singh Chouhan",
+      "District": 52,
+      "Capital": "Bhopal",
+      "txt": "Madhya Pradesh is known for its rich cultural heritage, ancient monuments, and diverse wildlife, including national parks and reserves."
     }
   },
   "Haryana": {
-    "p_density": 90,
-    "area": 50,
-    "image": "Madhya_Pradesh_district_map.svg.png",
-    "sex_r": " ",
-    "literacy_r": " ",
-    "GDP": " ",
+    "name": "Haryana",
+    "p_density": 573,
+    "area": 44212,
+    "image": "../../public/maps/haryana.png",
+    "sex_r": "879",
+    "literacy_r": "76.64%",
+    "GDP": "$95 billion",
     "content": {
-      "CM": "XYZ",
-      "District": 45,
-      "Capital": "ABC",
-      "txt": "Popular as a mini India"
+      "CM": "Manohar Lal Khattar",
+      "District": 22,
+      "Capital": "Chandigarh",
+      "txt": "Haryana is one of the wealthiest states in India, known for its agricultural and industrial prowess, and is a significant contributor to India's economy."
     }
   },
   "Bihar": {
-    "p_density": 90,
-    "area": 50,
-    "image": "Madhya_Pradesh_district_map.svg.png",
-    "sex_r": " ",
-    "literacy_r": " ",
-    "GDP": " ",
+    "name": "Bihar",
+    "p_density": 1102,
+    "area": 94163,
+    "image": "../../public/maps/bihar.png",
+    "sex_r": "918",
+    "literacy_r": "61.80%",
+    "GDP": "$90 billion",
     "content": {
-      "CM": "XYZ",
-      "District": 45,
-      "Capital": "ABC",
-      "txt": "Popular as a mini India"
+      "CM": "Nitish Kumar",
+      "District": 38,
+      "Capital": "Patna",
+      "txt": "Bihar is one of the oldest inhabited places in the world, known for its rich history, cultural heritage, and significant contributions to literature and spirituality."
+    }
+  },
+  "Andaman and Nicobar Islands": {
+    "name": "Andaman and Nicobar Islands",
+    "p_density": 46,
+    "area": 8249,
+    "image": "../../public/maps/andaman_nicobar.png",
+    "sex_r": "876",
+    "literacy_r": "86.63%",
+    "GDP": "$825 million",
+    "content": {
+      "CM": "N/A",
+      "District": 3,
+      "Capital": "Port Blair",
+      "txt": "The Andaman and Nicobar Islands are known for their pristine beaches, diverse marine life, and lush greenery, attracting tourists and nature enthusiasts from around the world."
+    }
+  },
+  "Chandigarh": {
+    "name": "Chandigarh",
+    "p_density": 9252,
+    "area": 114,
+    "image": "../../public/maps/chandigarh.png",
+    "sex_r": "818",
+    "literacy_r": "86.43%",
+    "GDP": "$4.8 billion",
+    "content": {
+      "CM": "N/A",
+      "District": 1,
+      "Capital": "Chandigarh",
+      "txt": "Chandigarh is a union territory and serves as the joint capital of Punjab and Haryana. It is known for its well-planned architecture and high standard of living."
+    }
+  },
+  "Dadra and Nagar Haveli and Daman and Diu": {
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "p_density": 700,
+    "area": 603,
+    "image": "../../public/maps/dadra_nagar_haveli_daman_diu.png",
+    "sex_r": "711",
+    "literacy_r": "87.07%",
+    "GDP": "$1.5 billion",
+    "content": {
+      "CM": "N/A",
+      "District": 2,
+      "Capital": "Daman",
+      "txt": "Dadra and Nagar Haveli and Daman and Diu are union territories located on the western coast of India, known for their scenic beauty, beaches, and Portuguese heritage."
+    }
+  },
+  "Lakshadweep": {
+    "name": "Lakshadweep",
+    "p_density": 2013,
+    "area": 32,
+    "image": "../../public/maps/lakshadweep.png",
+    "sex_r": "946",
+    "literacy_r": "91.85%",
+    "GDP": "$64 million",
+    "content": {
+      "CM": "N/A",
+      "District": 1,
+      "Capital": "Kavaratti",
+      "txt": "Lakshadweep is a group of islands in the Arabian Sea, known for their pristine beaches, coral reefs, and rich marine biodiversity, making it a popular destination for eco-tourism."
+    }
+  },
+  "Puducherry": {
+    "name": "Puducherry",
+    "p_density": 2597,
+    "area": 490,
+    "image": "../../public/maps/puducherry.png",
+    "sex_r": "1037",
+    "literacy_r": "85.85%",
+    "GDP": "$3.8 billion",
+    "content": {
+      "CM": "N/A",
+      "District": 4,
+      "Capital": "Puducherry",
+      "txt": "Puducherry, also known as Pondicherry, is a union territory famous for its French colonial architecture, beaches, and spiritual significance. It is a melting pot of cultures."
+    }
+  },
+  "Chhattisgarh": {
+    "name": "Chhattisgarh",
+    "p_density": 189,
+    "area": 135191,
+    "image": "../../public/maps/chhattisgarh.png",
+    "sex_r": "991",
+    "literacy_r": "71.04%",
+    "GDP": "$84 billion",
+    "content": {
+      "CM": "Bhupesh Baghel",
+      "District": 28,
+      "Capital": "Raipur",
+      "txt": "Chhattisgarh is known for its rich cultural heritage, ancient temples, and diverse tribal communities. It is also home to some of India's largest coal and iron ore reserves."
+    }
+  },
+  "Goa": {
+    "name": "Goa",
+    "p_density": 394,
+    "area": 3702,
+    "image": "../../public/maps/goa.png",
+    "sex_r": "973",
+    "literacy_r": "88.70%",
+    "GDP": "$11 billion",
+    "content": {
+      "CM": "Pramod Sawant",
+      "District": 2,
+      "Capital": "Panaji",
+      "txt": "Goa is known for its stunning beaches, vibrant nightlife, and Portuguese colonial architecture. It is a popular tourist destination and a hub for music and cultural festivals."
+    }
+  },
+  "Gujarat": {
+    "name": "Gujarat",
+    "p_density": 308,
+    "area": 196024,
+    "image": "../../public/maps/gujarat.png",
+    "sex_r": "919",
+    "literacy_r": "78.03%",
+    "GDP": "$210 billion",
+    "content": {
+      "CM": "Vijay Rupani",
+      "District": 33,
+      "Capital": "Gandhinagar",
+      "txt": "Gujarat is known as the 'Jewel of Western India' and is famous for its rich history, cultural heritage, and contributions to trade, industry, and commerce."
+    }
+  },
+  "Himachal Pradesh": {
+    "name": "Himachal Pradesh",
+    "p_density": 123,
+    "area": 55673,
+    "image": "../../public/maps/himachal_pradesh.png",
+    "sex_r": "972",
+    "literacy_r": "82.80%",
+    "GDP": "$25 billion",
+    "content": {
+      "CM": "Jai Ram Thakur",
+      "District": 12,
+      "Capital": "Shimla",
+      "txt": "Himachal Pradesh is known for its picturesque landscapes, snow-capped mountains, and vibrant culture. It is a popular destination for adventure sports and eco-tourism."
+    }
+  },
+  "Jammu and Kashmir": {
+    "name": "Jammu and Kashmir",
+    "p_density": 98,
+    "area": 222236,
+    "image": "../../public/maps/jammu_kashmir.png",
+    "sex_r": "889",
+    "literacy_r": "67.16%",
+    "GDP": "$17 billion",
+    "content": {
+      "CM": "N/A",
+      "District": 20,
+      "Capital": "Srinagar (Summer), Jammu (Winter)",
+      "txt": "Jammu and Kashmir, often referred to as 'Paradise on Earth', is known for its stunning natural beauty, including snow-capped mountains, valleys, and lakes. It has a rich cultural heritage and is famous for its handicrafts and cuisine."
+    }
+  },
+  "Jharkhand": {
+    "name": "Jharkhand",
+    "p_density": 414,
+    "area": 79714,
+    "image": "../../public/maps/jharkhand.png",
+    "sex_r": "948",
+    "literacy_r": "67.63%",
+    "GDP": "$40 billion",
+    "content": {
+      "CM": "Hemant Soren",
+      "District": 24,
+      "Capital": "Ranchi",
+      "txt": "Jharkhand is endowed with rich mineral resources and is known for its lush forests, waterfalls, and diverse tribal culture. It is one of the leading producers of minerals in India."
+    }
+  },
+  "Karnataka": {
+    "name": "Karnataka",
+    "p_density": 319,
+    "area": 191791,
+    "image": "../../public/maps/karnataka.png",
+    "sex_r": "973",
+    "literacy_r": "75.36%",
+    "GDP": "$250 billion",
+    "content": {
+      "CM": "Basavaraj Bommai",
+      "District": 31,
+      "Capital": "Bengaluru",
+      "txt": "Karnataka is known as the 'Silicon Valley of India' and is a hub for technology and innovation. It is famous for its rich cultural heritage, diverse cuisine, and historic monuments."
+    }
+  },
+  "Kerala": {
+    "name": "Kerala",
+    "p_density": 859,
+    "area": 38863,
+    "image": "../../public/maps/kerala.png",
+    "sex_r": "1084",
+    "literacy_r": "96.02%",
+    "GDP": "$110 billion",
+    "content": {
+      "CM": "Pinarayi Vijayan",
+      "District": 14,
+      "Capital": "Thiruvananthapuram",
+      "txt": "Kerala is known as 'God's Own Country' and is celebrated for its lush greenery, backwaters, and pristine beaches. It has the highest literacy rate and Human Development Index in India."
+    }
+  },
+  "Manipur": {
+    "name": "Manipur",
+    "p_density": 122,
+    "area": 22327,
+    "image": "../../public/maps/manipur.png",
+    "sex_r": "987",
+    "literacy_r": "79.85%",
+    "GDP": "$6 billion",
+    "content": {
+      "CM": "Nongthombam Biren Singh",
+      "District": 16,
+      "Capital": "Imphal",
+      "txt": "Manipur is known for its scenic beauty, rich cultural heritage, and vibrant festivals. It is home to diverse indigenous communities and is known for its traditional arts and crafts."
+    }
+  },
+  "Meghalaya": {
+    "name": "Meghalaya",
+    "p_density": 132,
+    "area": 22429,
+    "image": "../../public/maps/meghalaya.png",
+    "sex_r": "989",
+    "literacy_r": "74.43%",
+    "GDP": "$6 billion",
+    "content": {
+      "CM": "Conrad Sangma",
+      "District": 11,
+      "Capital": "Shillong",
+      "txt": "Meghalaya is known for its picturesque landscapes, lush greenery, and abundant rainfall. It is famous for its living root bridges, tribal culture, and unique cuisine."
+    }
+  },
+  "Mizoram": {
+    "name": "Mizoram",
+    "p_density": 52,
+    "area": 21081,
+    "image": "../../public/maps/mizoram.png",
+    "sex_r": "976",
+    "literacy_r": "91.33%",
+    "GDP": "$3 billion",
+    "content": {
+      "CM": "Zoramthanga",
+      "District": 11,
+      "Capital": "Aizawl",
+      "txt": "Mizoram, often referred to as the 'Land of the Highlanders', is known for its scenic beauty, vibrant culture, and peaceful environment. It is home to various indigenous tribes."
+    }
+  },
+  "Nagaland": {
+    "name": "Nagaland",
+    "p_density": 119,
+    "area": 16579,
+    "image": "../../public/maps/nagaland.png",
+    "sex_r": "931",
+    "literacy_r": "79.55%",
+    "GDP": "$5 billion",
+    "content": {
+      "CM": "Neiphiu Rio",
+      "District": 11,
+      "Capital": "Kohima",
+      "txt": "Nagaland is known for its rich tribal culture, vibrant festivals, and stunning landscapes. It is home to various indigenous tribes, each with its distinct customs and traditions."
+    }
+  },
+  "Odisha": {
+    "name": "Odisha",
+    "p_density": 269,
+    "area": 155707,
+    "image": "../../public/maps/odisha.png",
+    "sex_r": "979",
+    "literacy_r": "72.87%",
+    "GDP": "$120 billion",
+    "content": {
+      "CM": "Naveen Patnaik",
+      "District": 30,
+      "Capital": "Bhubaneswar",
+      "txt": "Odisha is known for its rich cultural heritage, ancient temples, and diverse ecosystems. It is famous for its vibrant festivals, handicrafts, and classical dance forms."
+    }
+  },
+  "Punjab": {
+    "name": "Punjab",
+    "p_density": 551,
+    "area": 50362,
+    "image": "../../public/maps/punjab.png",
+    "sex_r": "895",
+    "literacy_r": "76.68%",
+    "GDP": "$80 billion",
+    "content": {
+      "CM": "Charanjit Singh Channi",
+      "District": 22,
+      "Capital": "Chandigarh",
+      "txt": "Punjab is known as the 'Land of Five Rivers' and is famous for its fertile plains, rich cultural heritage, and contributions to agriculture and industry."
+    }
+  },
+  "Rajasthan": {
+    "name": "Rajasthan",
+    "p_density": 201,
+    "area": 342239,
+    "image": "../../public/maps/rajasthan.png",
+    "sex_r": "928",
+    "literacy_r": "66.11%",
+    "GDP": "$180 billion",
+    "content": {
+      "CM": "Ashok Gehlot",
+      "District": 33,
+      "Capital": "Jaipur",
+      "txt": "Rajasthan is known as the 'Land of Kings' and is famous for its rich history, majestic forts, and vibrant culture. It is a popular tourist destination."
+    }
+  },
+  "Sikkim": {
+    "name": "Sikkim",
+    "p_density": 86,
+    "area": 7096,
+    "image": "../../public/maps/sikkim.png",
+    "sex_r": "890",
+    "literacy_r": "81.42%",
+    "GDP": "$2 billion",
+    "content": {
+      "CM": "Prem Singh Tamang",
+      "District": 4,
+      "Capital": "Gangtok",
+      "txt": "Sikkim is known for its stunning landscapes, Buddhist monasteries, and rich biodiversity. It is one of the smallest and least populous states in India."
+    }
+  },
+  "Tamil Nadu": {
+    "name": "Tamil Nadu",
+    "p_density": 555,
+    "area": 130058,
+    "image": "../../public/maps/tamil_nadu.png",
+    "sex_r": "996",
+    "literacy_r": "80.33%",
+    "GDP": "$260 billion",
+    "content": {
+      "CM": "M. K. Stalin",
+      "District": 38,
+      "Capital": "Chennai",
+      "txt": "Tamil Nadu is known as the 'Land of Temples' and is famous for its Dravidian architecture, classical music, dance, and cuisine. It is one of the most industrialized states in India."
+    }
+  },
+  "Telangana": {
+    "name": "Telangana",
+    "p_density": 312,
+    "area": 112077,
+    "image": "../../public/maps/telangana.png",
+    "sex_r": "943",
+    "literacy_r": "66.46%",
+    "GDP": "$85 billion",
+    "content": {
+      "CM": "K. Chandrashekar Rao",
+      "District": 33,
+      "Capital": "Hyderabad",
+      "txt": "Telangana is known for its rich cultural heritage, historic monuments, and IT industry. It is one of the youngest states in India."
+    }
+  },
+  "Tripura": {
+    "name": "Tripura",
+    "p_density": 350,
+    "area": 10486,
+    "image": "../../public/maps/tripura.png",
+    "sex_r": "960",
+    "literacy_r": "87.22%",
+    "GDP": "$7 billion",
+    "content": {
+      "CM": "Biplab Kumar Deb",
+      "District": 8,
+      "Capital": "Agartala",
+      "txt": "Tripura is known for its rich cultural heritage, diverse tribal communities, and lush greenery. It is famous for its traditional handicrafts and festivals."
+    }
+  },
+  "Uttarakhand": {
+    "name": "Uttarakhand",
+    "p_density": 189,
+    "area": 53483,
+    "image": "../../public/maps/uttarakhand.png",
+    "sex_r": "963",
+    "literacy_r": "79.63%",
+    "GDP": "$35 billion",
+    "content": {
+      "CM": "Pushkar Singh Dhami",
+      "District": 13,
+      "Capital": "Dehradun (interim)",
+      "txt": "Uttarakhand is known for its stunning landscapes, including the Himalayas, forests, and rivers. It is famous for its pilgrimage sites and adventure tourism."
     }
   }
 }
