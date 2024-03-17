@@ -33,4 +33,4 @@ function IndiaMap() {
     </div>
   );
 }
-export default App;
+export default IndiaMap;
