@@ -1,16 +1,20 @@
-import { useState } from 'react'
-
-import './App.css'
-import IndiaMap from './components/IndiaMap'
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; // Import Routes and Route
+import Home from './components/Home';
+import IndiaMap from './components/IndiaMap';
 
 function App() {
-  
-
   return (
-    <>
-      <IndiaMap></IndiaMap>
-    </>
-  )
+    <Router>
+      <div className="App">
+        <Routes> {/* Wrap Routes around your routes */}
+          <Route path="/" element={<Home />} /> {/* Use 'element' prop instead of 'component' */}
+          <Route path="/india-map" element={<IndiaMap />} />
+        </Routes>
+      </div>
+    </Router>
+   
+  );
 }
 
-export default App
+export default App;
