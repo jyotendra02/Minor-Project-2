@@ -28,7 +28,6 @@ function IndiaMap() {
         </div>
       </div>
       <div className="flex-1 bg-white">
-    
         {selectedState && <StateDetails stateData={selectedState} />}
       </div>
     </div>
