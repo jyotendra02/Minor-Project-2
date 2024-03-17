@@ -61,7 +61,7 @@
     "name" : "Madhya Pradesh",
     "p_density": 90,
     "area": 50,
-    "image": "../../public/maps/MP.png",
+    "image": "/maps/MP.png",
     "sex_r": " ",
     "literacy_r": " ",
     "GDP": " ",

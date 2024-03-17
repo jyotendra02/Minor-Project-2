@@ -55,7 +55,7 @@ function App() {
 import data from "./data.json";
 import StateDetails from "./StateDetails";
 
-function App() {
+function IndiaMap() {
   const [selectedState, setSelectedState] = useState();
 
   function onLocationClick(event) {
@@ -78,15 +78,10 @@ function App() {
         </div>
       </div>
       <div className="flex-1 bg-white">
-        {/* Render StateDetails component if a state is selected */}
         {selectedState && <StateDetails stateData={selectedState} />}
 >>>>>>> ae45d3d23705700e272ac2d449835b23eecad49c
       </div>
     </div>
   );
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> ae45d3d23705700e272ac2d449835b23eecad49c
-export default App;
+export default IndiaMap;
