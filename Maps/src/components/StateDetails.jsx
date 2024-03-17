@@ -7,7 +7,7 @@ function StateDetails({ stateData }) {
         <p>State: {stateData.name}</p>
       </div>
 
-      <div className="w-100 bg-blue-300 px-4 py-4 rounded-lg h-auto mx-3">
+      <div className="w-100  bg-blue-300 px-4 py-4 rounded-lg h-auto mx-3">
         <p className="px-2 py-4">
           <img src={stateData.image} alt={stateData.name} />
         </p>

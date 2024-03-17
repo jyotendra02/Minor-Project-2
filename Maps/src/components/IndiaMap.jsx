@@ -5,7 +5,7 @@ import "react-svg-map/lib/index.css";
 import data from "./data.json";
 import StateDetails from "./StateDetails";
 
-function App() {
+function IndiaMap() {
   const [selectedState, setSelectedState] = useState();
 
   function onLocationClick(event) {
@@ -28,10 +28,9 @@ function App() {
         </div>
       </div>
       <div className="flex-1 bg-white">
-        {/* Render StateDetails component if a state is selected */}
         {selectedState && <StateDetails stateData={selectedState} />}
       </div>
     </div>
   );
 }
-export default App;
+export default IndiaMap;
