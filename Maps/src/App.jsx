@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Routes> {/* Wrap Routes around your routes */}
+        <Routes>
           <Route path="/" element={<Home />} /> {/* Use 'element' prop instead of 'component' */}
           <Route path="/india-map" element={<IndiaMap />} />
         </Routes>

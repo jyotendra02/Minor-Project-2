@@ -2,7 +2,7 @@
 import { TypewriterEffectSmooth } from "./ui/typewriter-effect";
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import { World } from "./ui/globe"; // Importing World component directly
+import { World } from "./ui/globe";
 import { Link } from "react-router-dom";
 
 export default function Home() {
@@ -464,9 +464,15 @@ export default function Home() {
           </p>
           <TypewriterEffectSmooth words={words} />
           <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 space-x-0 md:space-x-4">
-            <button className="w-40 h-10 rounded-xl bg-black border dark:border-white border-transparent text-white text-sm">
-              Stats
-            </button>
+            <a
+              href="https://censusindia.gov.in/census.website/data"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <button className="w-40 h-10 rounded-xl bg-black border dark:border-white border-transparent text-white text-sm">
+                Stats
+              </button>
+            </a>
             <Link to="/india-map">
               <button className="w-40 h-10 rounded-xl bg-white text-black border border-black text-sm">
                 Explore
