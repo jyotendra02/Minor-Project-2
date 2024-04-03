@@ -8,7 +8,7 @@
     "literacy_r": "82.34%",
     "GDP": "$387.5 billion",
     "content": {
-      "CM": "Uddhav Thackeray",
+      "CM": "Eknath Shinde",
       "District": 36,
       "Capital": "Mumbai",
       "txt": "Maharashtra is the wealthiest state in India, contributing to 15% of the country's industrial output and 13.3% of its GDP."
@@ -68,7 +68,7 @@
     "literacy_r": "69.32%",
     "GDP": "$250 billion",
     "content": {
-      "CM": "Shivraj Singh Chouhan",
+      "CM": "Dr. Mohan Yadav",
       "District": 52,
       "Capital": "Bhopal",
       "txt": "Madhya Pradesh is known for its rich cultural heritage, ancient monuments, and diverse wildlife, including national parks and reserves."
@@ -188,7 +188,7 @@
     "literacy_r": "71.04%",
     "GDP": "$84 billion",
     "content": {
-      "CM": "Bhupesh Baghel",
+      "CM": "Vishnu Dev Sahay",
       "District": 28,
       "Capital": "Raipur",
       "txt": "Chhattisgarh is known for its rich cultural heritage, ancient temples, and diverse tribal communities. It is also home to some of India's largest coal and iron ore reserves."
@@ -243,7 +243,7 @@
     "name": "Jammu and Kashmir",
     "p_density": 98,
     "area": 222236,
-    "image": "../../public/maps/JK.png",
+    "image": "../../public/maps/JK1.jpg",
     "sex_r": "889",
     "literacy_r": "67.16%",
     "GDP": "$17 billion",
@@ -329,21 +329,6 @@
       "txt": "Meghalaya is known for its picturesque landscapes, lush greenery, and abundant rainfall. It is famous for its living root bridges, tribal culture, and unique cuisine."
     }
   },
-  "Mizoram": {
-    "name": "Mizoram",
-    "p_density": 52,
-    "area": 21081,
-    "image": "../../public/maps/MZ.png",
-    "sex_r": "976",
-    "literacy_r": "91.33%",
-    "GDP": "$3 billion",
-    "content": {
-      "CM": "Zoramthanga",
-      "District": 11,
-      "Capital": "Aizawl",
-      "txt": "Mizoram, often referred to as the 'Land of the Highlanders', is known for its scenic beauty, vibrant culture, and peaceful environment. It is home to various indigenous tribes."
-    }
-  },
   "Nagaland": {
     "name": "Nagaland",
     "p_density": 119,
@@ -393,12 +378,12 @@
     "name": "Rajasthan",
     "p_density": 201,
     "area": 342239,
-    "image": "../../public/maps/RJ.png",
+    "image": "/maps/RJ.png",
     "sex_r": "928",
     "literacy_r": "66.11%",
     "GDP": "$180 billion",
     "content": {
-      "CM": "Ashok Gehlot",
+      "CM": "Bhajan Lal Sharma",
       "District": 33,
       "Capital": "Jaipur",
       "txt": "Rajasthan is known as the 'Land of Kings' and is famous for its rich history, majestic forts, and vibrant culture. It is a popular tourist destination."
@@ -408,7 +393,7 @@
     "name": "Sikkim",
     "p_density": 86,
     "area": 7096,
-    "image": "../../public/maps/SK.png",
+    "image": "/maps/SK.png",
     "sex_r": "890",
     "literacy_r": "81.42%",
     "GDP": "$2 billion",
@@ -446,7 +431,7 @@
       "CM": "K. Chandrashekar Rao",
       "District": 33,
       "Capital": "Hyderabad",
-      "txt": "Telangana is known for its rich cultural heritage, historic monuments, and IT industry. It is one of the youngest states in India."
+      "txt": "Telangana is known for its rich cultural heritage, historic monuments, and IT industry. It is one of the youngest states in India, formed in 2014."
     }
   },
   "Tripura": {
@@ -455,13 +440,13 @@
     "area": 10486,
     "image": "../../public/maps/TR.png",
     "sex_r": "960",
-    "literacy_r": "87.22%",
+    "literacy_r": "87.75%",
     "GDP": "$7 billion",
     "content": {
       "CM": "Biplab Kumar Deb",
       "District": 8,
       "Capital": "Agartala",
-      "txt": "Tripura is known for its rich cultural heritage, diverse tribal communities, and lush greenery. It is famous for its traditional handicrafts and festivals."
+      "txt": "Tripura is known for its rich cultural heritage, vibrant festivals, and scenic beauty. It is home to various indigenous communities and is famous for its handicrafts and cuisine."
     }
   },
   "Uttarakhand": {
@@ -471,27 +456,58 @@
     "image": "../../public/maps/UK.png",
     "sex_r": "963",
     "literacy_r": "79.63%",
-    "GDP": "$35 billion",
+    "GDP": "$25 billion",
     "content": {
       "CM": "Pushkar Singh Dhami",
       "District": 13,
-      "Capital": "Dehradun (interim)",
-      "txt": "Uttarakhand is known for its stunning landscapes, including the Himalayas, forests, and rivers. It is famous for its pilgrimage sites and adventure tourism."
-    },
-    "Andhra Pradesh": {
-      "name": "Andhra Pradesh",
-      "p_density": 189,
-      "area": 53483,
-      "image": "../../public/maps/AP.png",
-      "sex_r": "963",
-      "literacy_r": "79.63%",
-      "GDP": "$35 billion",
-      "content": {
-        "CM": "Pushkar Singh Dhami",
-        "District": 13,
-        "Capital": "Dehradun (interim)",
-        "txt": "Uttarakhand is known for its stunning landscapes, including the Himalayas, forests, and rivers. It is famous for its pilgrimage sites and adventure tourism."
-      }
+      "Capital": "Dehradun",
+      "txt": "Uttarakhand is known as the 'Land of Gods' and is famous for its scenic beauty, pilgrimage sites, and adventure sports. It is home to the Himalayas and several national parks."
+    }
+  },
+
+  "Andhra Pradesh": {
+    "name": "Andhra Pradesh",
+    "p_density": 308,
+    "area": 160205,
+    "image": "../../public/maps/AP.png",
+    "sex_r": "993",
+    "literacy_r": "67.41%",
+    "GDP": "$140 billion",
+    "content": {
+      "CM": "Y. S. Jaganmohan Reddy",
+      "District": 13,
+      "Capital": "Amaravati",
+      "txt": "Andhra Pradesh is known for its rich cultural heritage, historic temples, and picturesque coastline. It is one of the largest producers of rice and is a significant hub for agriculture and industry."
+    }
+  },
+  "Mizoram": {
+    "name": "Mizoram",
+    "p_density": 52,
+    "area": 21081,
+    "image": "../../public/maps/MZ.png",
+    "sex_r": "976",
+    "literacy_r": "91.33%",
+    "GDP": "$2 billion",
+    "content": {
+      "CM": "Zoramthanga",
+      "District": 11,
+      "Capital": "Aizawl",
+      "txt": "Mizoram is known for its lush greenery, scenic landscapes, and vibrant culture. It is inhabited by various indigenous tribes and is famous for its handicrafts, music, and festivals."
+    }
+  },
+  "Arunachal Pradesh": {
+    "name": "Arunachal Pradesh",
+    "p_density": 17,
+    "area": 83743,
+    "image": "../../public/maps/AR.png",
+    "sex_r": "938",
+    "literacy_r": "66.95%",
+    "GDP": "$4 billion",
+    "content": {
+      "CM": "Pema Khandu",
+      "District": 25,
+      "Capital": "Itanagar",
+      "txt": "Arunachal Pradesh is known for its breathtaking natural beauty, diverse indigenous cultures, and adventure tourism. It is home to various tribes and is famous for its orchids, festivals, and trekking destinations."
     }
   }
 }

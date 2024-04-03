@@ -5,6 +5,7 @@ function StateDetails({ stateData }) {
     <>
       <div className="w-100 bg-blue-300 px-4 py-4 rounded-lg h-auto mx-3 my-1  text-xl font-bold">
         <p>State: {stateData.name}</p>
+       
       </div>
 
       <div className="w-100  bg-blue-300 px-4 py-4 rounded-lg h-auto mx-3">
@@ -29,6 +30,8 @@ function StateDetails({ stateData }) {
         <p>Description: {stateData.content.txt}</p>
       </div>
     </>
+    
   );
+  
 }
 export default StateDetails;
